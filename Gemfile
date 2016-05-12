@@ -32,7 +32,7 @@ gem 'bootstrap-sass'
 # http://webservice.rakuten.co.jp/sdk/ruby.html
 # https://github.com/rakuten-ws/rws-ruby-sdk
 gem 'rakuten_web_service'
-
+gem 'pry-byebug', group: :development
 
 # Use Unicorn as the app server
 # gem 'unicorn'
